@@ -1,0 +1,31 @@
+{
+  "name": "USD Token",
+  "symbol": "USDT",
+  "description": "Custom USD Token on Solana project",
+  "image": "https://raw.githubusercontent.com/2026tokenminter-design/USDT-token-metadata/main/5a71a601ec1ade273f1f5af5.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "Solana Web3 Project"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/2026tokenminter-design/USDT-token-metadata/main/5a71a601ec1ade273f1f5af5.jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "extensions": {
+    "website": "https://www.ice.com/index",
+    "twitter": "",
+    "telegram": ""
+  }
+}
