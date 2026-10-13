@@ -1,8 +1,12 @@
 {
   "name": "USD Token",
   "symbol": "USDT",
-  "description": "Custom USD Token on Solana project",
+  "decimals": 6,
+  "version": "2.0",
+  "description": "USD Token (USDT) is a stablecoin that aims to keep cryptocurrencies value stable.",
   "image": "https://raw.githubusercontent.com/2026tokenminter-design/USDT-token-metadata/main/5a71a601ec1ade273f1f5af5.jpeg",
+  "website": "https://tether.to",
+  "total_supply": "89,000,000,000",
   "attributes": [
     {
       "trait_type": "Project",
@@ -23,8 +27,32 @@
     "category": "image",
     "creators": []
   },
+  "issuer": {
+    "name": "USD Token Limited",
+    "url": "https://tether.to"
+  },
+  "network": {
+    "name": "Solana",
+    "chain": "Solana",
+    "contract_address": "7AVFB...iQFft"
+  },
+  "block_explorer": {
+    "url": "https://explorer.solana.com/address/7AVFB...iQFft",
+    "name": "Solana Explorer"
+  },
+  "audits": [
+    {
+      "audit_date": "2026-10-12",
+      "audit_firm": "ICE",
+      "audit_report": "https://www.ice.com/index"
+    }
+  ],
+  "categories": [
+    "Finance",
+    "Payments"
+  ],
   "extensions": {
-    "website": "https://www.ice.com/index",
+    "website": "https://tether.to",
     "twitter": "",
     "telegram": ""
   }
